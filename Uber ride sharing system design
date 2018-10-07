@@ -1,0 +1,8 @@
+How to design a ride sharing service like Uber or Lyft? In this video we talk about many aspects when designing complex 
+distributed systems with mapping and routing components. Under the hood they use sophisticated graph algorithms to display
+precise ETA's and shortest routes. 
+Additionally we talk about storage (Redis, NoSQL, Cassandra ), provisioning (Mesos, Teraform), networking, docker containers and logging.
+
+
+Youtube link is 
+https://www.youtube.com/watch?v=J3DY3Te3A_A
